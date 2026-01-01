@@ -9,7 +9,7 @@ export function BottleAssembly() {
   const scroll = useScroll();
   
 
-  const bannerTexture = useTexture('/images/banner.png');
+  const bannerTexture = useTexture('/images/label-texture.png');
   const logoTexture = useTexture('/images/logo.png');
   
 
